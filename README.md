@@ -20,3 +20,6 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 ## External APIs
 
 - [OpenWeatherMap API](https://openweathermap.org/api): Used to fetch weather data for cities.
+
+## Link of Website
+- https://abhay-singh-1913.github.io/Weather_App/
