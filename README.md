@@ -1,4 +1,4 @@
-# Weather App <img width="auto" height="50px" src="./img/weather-app.png"  />
+# Weather App <img width="auto" height="50px" src="./img/weather-app.png"/>
 
 
 ## Overview
