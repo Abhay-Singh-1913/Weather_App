@@ -11,7 +11,7 @@ async function checkWeather(city) {
 
   if (respone.status == 404) {
     document.querySelector(".error").style.display = "block";
-    document.querySelector(".error").style.color = "red";
+    document.querySelector(".error").style.color = "blue";
     document.querySelector(".weather").style.display = "none";
   } else {
     var data = await respone.json();
